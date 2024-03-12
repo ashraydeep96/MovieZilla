@@ -1,8 +1,2 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+MovieZilla is a platform in which users can find all information about Movies and TV Shows such as their Release Date, Casting Actors, Reviews, Ratings and many more things. Here users can also Search for Movies as well as TV Shows and can gain Information about it. All the Data is coming from IMDB API, which means that all the data is up-to-date and true.<br>
+<b>URL</b>: <a href="https://moviezilla-eight.vercel.app/">Visit Website</a>
